@@ -1,2 +1,3 @@
 Mis conocimientos en técnología antes del máster.
     Mis conocimientos se basan en la realización del Grado en Ingeniería de Servicios. Este grado es una mezcla de ADE e informática.
+    Dentro del Grado aprendí un poco de Java, HTML, Bases de Datos, C, entre otras.
